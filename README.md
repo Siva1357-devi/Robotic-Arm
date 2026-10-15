@@ -1,0 +1,66 @@
+## Training Objectives
+
+The main objective of the training was to gain practical knowledge of AI-based robotic systems and real-time hardware applications.
+
+## Technologies and Platforms
+
+- Python
+- Jupyter Notebook
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- NVIDIA Jetson Nano
+- Raspberry Pi
+- Robotics
+- Robotic Arm
+- Embedded Systems
+- Edge Computing
+
+## Projects and Practical Work
+
+### 1. Robotic Arm
+
+A programmable robotic arm was used to understand robotic movement, servo motor control, hardware interfacing, and automation.
+
+*Key activities:*
+- Robotic arm assembly
+- Servo motor control
+- Object pick-and-place operations
+- Hardware interfacing
+- Real-time robotic movement
+- Automation concepts
+
+### 2. AI Model Training
+
+Jupyter Notebooks were used for data collection, model training, testing, and real-time demonstrations.
+
+### 3. Edge AI and Robotics
+
+Hands-on work was carried out using NVIDIA Jetson Nano and Raspberry Pi for developing AI and robotics applications at the edge.
+
+## Repository Contents
+
+This repository includes:
+
+- train_model.ipynb – AI model training
+- data_collection.ipynb – Data collection
+- data_collection_gamepad.ipynb – Gamepad-based data collection
+- live_demo_trt.ipynb – Real-time demonstration using TensorRT
+- live_demo_build_trt.ipynb – TensorRT model preparation and demonstration
+- live_demo_build_trt (1).ipynb – Additional live demonstration notebook
+
+## Learning Outcomes
+
+Through this training, I gained practical experience in:
+
+- AI and Machine Learning
+- Python programming
+- Data collection and preprocessing
+- Model training and testing
+- Computer Vision
+- Robotics and automation
+- Robotic arm control
+- NVIDIA Jetson Nano
+- Raspberry Pi
+- Edge AI
+- Real-time system development
